@@ -23,7 +23,7 @@ Get the output
 DEVELOPED BY : JAYABHARATHI . S
 REG.NO : 212222100013
 ```
-```
+```C#
 using System;
 
 namespace Admission
