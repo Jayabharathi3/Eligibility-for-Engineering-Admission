@@ -19,10 +19,6 @@ Check the conditions and end the program
 Get the output
 
 ## Program:
-```
-DEVELOPED BY : JAYABHARATHI . S
-REG.NO : 212222100013
-```
 ```C#
 using System;
 
