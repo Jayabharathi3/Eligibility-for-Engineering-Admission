@@ -1,4 +1,5 @@
 # Eligibility-for-Engineering-Admission
+
 ## Aim:
 To write a C# program to check whether the student is eligibile for the engineering admission
 
@@ -19,7 +20,6 @@ Check the conditions and end the program
 Get the output
 
 ## Program:
-<<<<<<< HEAD
 
 ```C#
 DEVELOPED BY : JAYABHARATHI . S
