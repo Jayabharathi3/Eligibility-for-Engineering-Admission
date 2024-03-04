@@ -26,9 +26,6 @@ DEVELOPED BY : JAYABHARATHI . S
 REG.NO : 212222100013
 
 
-=======
-```C#
->>>>>>> 64bc41edcd345ec42b53841a76d142b74388cd9d
 using System;
 
 namespace Admission
