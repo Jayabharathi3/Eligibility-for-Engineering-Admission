@@ -19,11 +19,12 @@ Check the conditions and end the program
 Get the output
 
 ## Program:
-```
+
+```C#
 DEVELOPED BY : JAYABHARATHI . S
 REG.NO : 212222100013
-```
-```C#
+
+
 using System;
 
 namespace Admission
@@ -65,7 +66,7 @@ namespace Admission
 ```
 
 ## Output:
-![image](https://github.com/Jayabharathi3/Eligibility-for-Engineering-Admission/assets/120367796/aa2e27cc-04ec-47f5-9f14-3ba52d41afe6)
+![](./exp%201.png)
 
 
 ## Result:
